@@ -21,7 +21,7 @@ DB Reader API 깃 링크: []
     }
   }
 }
-
+```
 
 args는 현 레파지토리를 클론한 경로를 입력한다.
 DBREADER_URL에 DB Reader API 서버의 포트를 입력한다(기본값은 8080포트)
