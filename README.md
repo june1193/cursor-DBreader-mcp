@@ -35,5 +35,3 @@ DBREADER_URL에 DB Reader API 서버의 포트를 입력한다(기본값은 8080
 
 ***운영 및 배포 가이드***
 .cursor/ 폴더와 C:\tools\mcp는 개발 환경 전용이므로 배포 산출물에는 제외하는 것을 권장
-
-
