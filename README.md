@@ -1,6 +1,6 @@
 Cursor가 MCP를 통해 DB Reader API 서버(Spring Boot)에 프록시 호출하여 DB 스키마를 읽을 수 있도록 하는 목적.
 
-DB Reader API 깃 링크: []<br><br>
+DB Reader API 깃 링크: [https://github.com/june1193/DB-Reader-API.git]<br><br>
 
 
 **신규 프로젝트에 적용하는 방법**
