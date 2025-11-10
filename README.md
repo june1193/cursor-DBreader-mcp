@@ -23,7 +23,7 @@ DB Reader API 깃 링크: [https://github.com/june1193/DB-Reader-API.git]<br><br
 }
 ```
 
-args는 현 레파지토리를 클론한 경로를 입력한다.<br>
+args는 현 레파지토리를 클론한 경로를 입력한다.(추천경로: C:\tools\mcp)<br>
 DBREADER_URL에는 DB Reader API 서버의 포트를 입력한다(기본값은 8080포트)
 
 실행 순서
